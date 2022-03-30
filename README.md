@@ -27,8 +27,8 @@ You have as resources:
 
 It doesn't have to be _pixel-perfect_, but implement the following two layouts:
 
-1. A mobile layout that takes effect if the screen is below 700 pixes wide.
-2. A tablet layout that takes effect if the screen is bigger than the mobile layout but below 1100 pixels wide.
+1. A mobile layout that takes effect if the screen is below 700 pixes wide. <!-- Done -->
+2. A tablet layout that takes effect if the screen is bigger than the mobile layout but below 1100 pixels wide. 
 
 Remember: The goal here is to practice your media queries and Flexbox, **NOT** to work on your pixel-perfect heights and widths!
 
